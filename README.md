@@ -254,7 +254,6 @@ BATCH_SIZE = 32  # Reduce from 128
 ## 📚 Additional Resources
 
 - `Notebook_Walkthrough.md` - Detailed explanation of every section
-- `Neural_Networks_Phase1.md` - CNN learning materials
 - `Tree_Species_Recognition_PRD.md` - Project requirements
 
 ---
@@ -264,3 +263,4 @@ BATCH_SIZE = 32  # Reduce from 128
 This project is for educational purposes.
 
 Dataset source: [Kaggle - Urban Street Tree Classification](https://www.kaggle.com/datasets/erickendric/tree-dataset-of-urban-street-classification-tree)
+
